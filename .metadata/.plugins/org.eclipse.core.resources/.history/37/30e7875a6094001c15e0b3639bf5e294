@@ -1,0 +1,16 @@
+package com.typecasting;
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		
+        
+	//implicit typecasting
+	  char ch='G';
+	  //convert into int 
+	  int i=ch;
+	  System.out.println(i);
+	  
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.arrays;
+
+public class ArraysDemo {
+
+	public static void main(String[] args) {
+		
+		
+	//syn1
+		           //0   1   2   3   4
+		int ar1[]= {101,102,103,104,105};
+		System.out.println(ar1.length);
+		
+		System.out.println(ar1);
+		
+		//syn2
+		int ar2[]=new int[4];
+		System.out.println(ar2.length);
+		
+		
+	}
+
+}

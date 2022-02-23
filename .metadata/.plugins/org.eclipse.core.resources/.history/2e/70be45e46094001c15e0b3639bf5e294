@@ -1,0 +1,22 @@
+package com.typecasting;
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		
+        
+	//implicit typecasting
+	  char ch='G';
+	  //convert into int 
+	  int i=ch;
+	  System.out.println(i);
+	  
+	  
+	  //covert int into float
+	  float f=i;
+	  System.out.println(f);
+	  
+	  
+	}
+
+}
