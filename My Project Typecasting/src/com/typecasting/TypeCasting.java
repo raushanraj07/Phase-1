@@ -6,7 +6,7 @@ public class TypeCasting {
 		
         
 	//implicit typecasting
-		System.out.println("implicit type casting conversion");
+		System.out.println("implicit type casting");
 	  char ch='G';
 	  //convert into int 
 	  int i=ch;
@@ -28,11 +28,11 @@ public class TypeCasting {
 	  
 	  
 	  //explicit type casting
-	  System.out.println("explicit type casting conversion");
+	  System.out.println("explicit type casting");
 	  
 	  double e=59.5;
 	  int x=(int)d;
-	  
+	  System.out.println(e);
 	  System.out.println(x);
 	}
 
